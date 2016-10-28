@@ -3,7 +3,8 @@
 
 
 ## Goal
-	Expose REST Service based on Spring+Hibernate+PostgreSQL
+	Use JOOQ to replace Hibernate as the Data Access Layer.
+	Expose REST Service based on Spring+**JOOQ**+PostgreSQL
 
 ## Architecture
 	Apache + Tomcat + Spring + Hiberate + PostgreSQL
